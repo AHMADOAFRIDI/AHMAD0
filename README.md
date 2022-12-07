@@ -18,4 +18,5 @@ pkg install python
  git clone https://github.com/AHMADOAFRIDI/AHMAD0
 
 cd AHMAD0
+
 python AHMAD0.py
